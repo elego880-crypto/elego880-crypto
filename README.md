@@ -57,9 +57,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elego880-crypto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5865f2&icon_color=5865f2&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elego880-crypto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5865f2&text_color=ffffff)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=elego880-crypto&theme=tokyonight&hide_border=true&background=0d1117&ring=5865f2&fire=5865f2&currStreakLabel=5865f2)
 
 </div>
 
