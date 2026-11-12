@@ -1,8 +1,12 @@
 <div align="center">
 
-# Egor Melnik
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5865f2&height=120&section=header&text=Egor%20Melnik&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20Founder%20of%20Aethel%20Dev&descAlignY=58&descSize=16&descColor=aaaaaa" width="100%"/>
 
-**Backend Developer · Founder of Aethel Dev**
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=5865F2&center=true&vCenter=true&width=500&lines=Backend+Developer;Founder+of+Aethel+Dev;Building+ITSMI+social+network;Node.js+%2B+PostgreSQL+%2B+WebSocket)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,6 +16,13 @@
 
 Разрабатываю веб-приложения и серверные системы. Основатель команды **Aethel Dev**.  
 Сейчас строю [ИТСМИ](https://итсми.site) — русскоязычную социальную сеть.
+
+---
+
+### Сейчас работаю над
+
+- **ИТСМИ** — социальная сеть на Node.js + PostgreSQL + WebSocket
+- Масштабирование и новые фичи платформы
 
 ---
 
@@ -57,12 +68,20 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=elego880-crypto&theme=tokyonight&hide_border=true&background=0d1117&ring=5865f2&fire=5865f2&currStreakLabel=5865f2)
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=elego880-crypto&theme=tokyonight&hide_border=true&background=0d1117&ring=5865f2&fire=5865f2&currStreakLabel=5865f2)
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>Aethel Dev &copy; 2025-2026</sub>
+
+![Profile views](https://komarev.com/ghpvc/?username=elego880-crypto&color=5865f2&style=flat-square&label=просмотров+профиля)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5865f2&height=80&section=footer" width="100%"/>
+
 </div>
