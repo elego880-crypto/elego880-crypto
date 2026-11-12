@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=5865F2&center=true&vCenter=true&width=500&lines=Backend+Developer;Founder+of+Aethel+Dev;Building+ITSMI+social+network;Node.js+%2B+PostgreSQL+%2B+WebSocket)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=5865F2&center=true&vCenter=true&width=600&lines=Backend+Developer;Founder+of+Aethel+Dev;Building+ITSMI+%E2%80%94+social+network;Node.js+%2B+PostgreSQL+%2B+WebSocket)](https://git.io/typing-svg)
 
 </div>
 
